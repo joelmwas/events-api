@@ -8,6 +8,7 @@ events = {
 	'1': {'event': 'Mozilla Open Day', 'location': 'Mt. Kenya University, Mombasa'},
 	'2': {'event': 'Open Data Day', 'location': 'Jomo Kenyatta University, Mombasa Campus'},
 	'3': {'event': 'Google Barcamp', 'location': 'Lotus Hotel'},
+	'4': {'event': 'Hack week', 'location': 'Technical University of Mombasa'},
 }
 
 
