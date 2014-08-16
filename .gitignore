@@ -1,0 +1,6 @@
+venv
+*.pyc
+*.swp
+
+# add to the repository
+!.gitignore
